@@ -32,3 +32,6 @@ https://g.co/gemini/share/e71cf593a365
 
 7 Doğru Orantı Oyunu Fikri ve Tanıtımı
 https://g.co/gemini/share/99a0f12e23a6
+
+7 Ters Orantı Oyunu Geliştirme
+https://g.co/gemini/share/9c41da4dfbb8
