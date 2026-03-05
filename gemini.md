@@ -19,6 +19,8 @@ https://g.co/gemini/share/ba2f80563623
 5 Sayı Oyunu: Yazıdan Rakamlara Çevirme
 https://g.co/gemini/share/976aa4532249
 
+5 Basamak Değeri Oyunu: Milyonlar Serisi
+https://g.co/gemini/share/7f5d10b8c23d
 
 4 Kesirle toplama payda eşitle
 https://g.co/gemini/share/32088965d18e
