@@ -29,3 +29,6 @@ https://g.co/gemini/share/e7eee699b897
 
 202603 Çarpan Bulma Oyunu: 100'e Kadar
 https://g.co/gemini/share/e71cf593a365
+
+7 Doğru Orantı Oyunu Fikri ve Tanıtımı
+https://g.co/gemini/share/885fa75f9f1e
