@@ -13,6 +13,9 @@ https://g.co/gemini/share/361b3e6f62da
 
 # 5. Sınıf
 
+5 Milyonlar Basamağı Okuma Oyunu
+https://g.co/gemini/share/ba2f80563623
+
 4 Kesirle toplama payda eşitle
 https://g.co/gemini/share/32088965d18e
 
