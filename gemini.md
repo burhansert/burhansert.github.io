@@ -31,4 +31,4 @@ https://g.co/gemini/share/e7eee699b897
 https://g.co/gemini/share/e71cf593a365
 
 7 Doğru Orantı Oyunu Fikri ve Tanıtımı
-https://g.co/gemini/share/1dbb7fe8ba20
+https://g.co/gemini/share/99a0f12e23a6
