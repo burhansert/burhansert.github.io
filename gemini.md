@@ -3,7 +3,7 @@
 Çarpma
 https://g.co/gemini/share/f7932677cd10
 
-# 4. sınıf
+# 4. Sınıf
 
 3 Kesirlerle Toplama
 https://g.co/gemini/share/3b0ba0beb494
