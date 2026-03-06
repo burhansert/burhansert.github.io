@@ -37,6 +37,9 @@ https://g.co/gemini/share/60866d7d86c2
 202603 Üçgen İç Açısı Bulma 
 https://g.co/gemini/share/e7eee699b897
 
+5 Ondalık Kesir Oyunu Geliştirme
+https://g.co/gemini/share/c70c96e939ce
+
 # 6. Sınıf
 
 202603 Çarpan Bulma Oyunu: 100'e Kadar
