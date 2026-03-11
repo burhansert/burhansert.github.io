@@ -59,7 +59,7 @@ https://g.co/gemini/share/9c41da4dfbb8
 ## Yüzdeler
 
 1 Kesiri Yüzdeye
-https://g.co/gemini/share/bde727520212
+https://g.co/gemini/share/47583ef97f2e
 
 2 ondaligi yuzdeye
 https://g.co/gemini/share/252978cd6e62
