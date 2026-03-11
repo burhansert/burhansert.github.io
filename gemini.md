@@ -55,3 +55,26 @@ https://g.co/gemini/share/99a0f12e23a6
 
 7 Ters Orantı Oyunu Geliştirme
 https://g.co/gemini/share/9c41da4dfbb8
+
+## Yüzdeler
+
+1 Kesiri Yüzdeye
+https://g.co/gemini/share/bde727520212
+
+2 ondaligi yuzdeye
+https://g.co/gemini/share/252978cd6e62
+
+3 Yüzdeyi Kesire
+https://g.co/gemini/share/cb02bbec4427
+
+4 Yüzdeyi Ondaliga
+https://g.co/gemini/share/0d883f68c785
+
+
+
+
+
+
+
+
+
