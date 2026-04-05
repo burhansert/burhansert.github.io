@@ -1,0 +1,81 @@
+# GİZLİLİK POLİTİKASI
+
+**Son Güncelleme Tarihi:** 02 Nisan 2026
+
+Bu Gizlilik Politikası, "Cüzdan Plus" mobil uygulamasını ("Uygulama") kullanan kullanıcıların kişisel verilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.
+
+## 1. Toplanan Bilgiler
+
+Uygulama aşağıdaki bilgileri toplayabilir:
+
+* **Kullanıcı tarafından sağlanan veriler:**
+
+  * Günlük kayıtları (notlar, metinler)
+  * Eklenen fotoğraflar veya medya içerikleri
+* **Cihaz bilgileri:**
+
+  * Cihaz modeli
+  * İşletim sistemi
+  * Uygulama kullanım bilgileri (çökme raporları vb.)
+
+## 2. Bilgilerin Kullanımı
+
+Toplanan veriler şu amaçlarla kullanılır:
+
+* Uygulama işlevlerini sağlamak ve geliştirmek
+* Kullanıcı deneyimini iyileştirmek
+* Hataları tespit etmek ve düzeltmek
+* Güvenliği sağlamak
+
+## 3. Veri Saklama
+
+* Kullanıcı verileri cihazda veya güvenli sunucularda saklanabilir.
+* Veriler, gerekli olduğu sürece tutulur.
+* Kullanıcı istediği zaman verilerini silebilir.
+
+## 4. Üçüncü Taraf Hizmetler
+
+Uygulama aşağıdaki üçüncü taraf hizmetleri kullanabilir:
+
+* Analitik servisleri (örneğin Firebase Analytics)
+* Çökme raporlama servisleri (örneğin Crashlytics)
+
+Bu hizmetler kendi gizlilik politikalarına tabidir.
+
+## 5. Veri Paylaşımı
+
+Kullanıcı verileri:
+
+* Hiçbir şekilde satılmaz.
+* Yasal zorunluluklar dışında üçüncü kişilerle paylaşılmaz.
+
+## 6. Güvenlik
+
+Verilerinizin güvenliği bizim için önemlidir. Uygun teknik ve idari önlemler alınmaktadır. Ancak internet üzerinden veri aktarımının %100 güvenli olduğu garanti edilemez.
+
+## 7. Çocukların Gizliliği
+
+Uygulama 13 yaş altındaki çocuklara yönelik değildir. Bilerek çocuklardan veri toplanmaz.
+
+## 8. Kullanıcı Hakları
+
+Kullanıcılar:
+
+* Verilerine erişme
+* Verilerini silme
+* Verilerinin işlenmesini kısıtlama
+
+haklarına sahiptir.
+
+## 9. Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanır.
+
+## 10. İletişim
+
+Herhangi bir sorunuz için bizimle iletişime geçebilirsiniz:
+
+E-posta: burhansert50@gmail.com
+
+---
+
