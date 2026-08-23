@@ -1,0 +1,151 @@
+# GİZLİLİK POLİTİKASI
+
+**Son Güncelleme Tarihi:** 23 Ağustos 2026
+
+Bu Gizlilik Politikası, **Fırtına E-Ticaret** platformunu, mobil uygulamasını ve ilgili hizmetleri ("Platform") kullanan kullanıcıların kişisel verilerinin nasıl toplandığını, kullanıldığını, saklandığını ve korunduğunu açıklar.
+
+## 1. Toplanan Bilgiler
+
+Platform üzerinden aşağıdaki bilgiler toplanabilir:
+
+### Kullanıcı tarafından sağlanan bilgiler
+
+* Ad ve soyad
+* Telefon numarası
+* E-posta adresi
+* Teslimat ve fatura adresi
+* Sipariş ve alışveriş bilgileri
+* Platform üzerindeki mağazalarla yapılan işlemler
+* Ürün değerlendirmeleri, yorumlar ve mesajlar
+* Kullanıcının isteğe bağlı olarak eklediği diğer bilgiler
+
+### Otomatik olarak toplanan bilgiler
+
+* Cihaz modeli ve işletim sistemi
+* IP adresi ve yaklaşık konum bilgileri
+* Tarayıcı ve uygulama bilgileri
+* Platform kullanım ve gezinme bilgileri
+* Tıklama, görüntüleme ve etkileşim bilgileri
+* Çerezler ve benzer teknolojiler aracılığıyla elde edilen bilgiler
+* Hata ve çökme raporları
+
+## 2. Bilgilerin Kullanımı
+
+Toplanan bilgiler aşağıdaki amaçlarla kullanılabilir:
+
+* Üyelik ve kullanıcı hesabı oluşturmak ve yönetmek
+* Sipariş, ödeme ve teslimat süreçlerini gerçekleştirmek
+* Kullanıcıların ürün ve mağazalara erişimini sağlamak
+* Platform hizmetlerini geliştirmek ve iyileştirmek
+* Kullanıcı deneyimini kişiselleştirmek
+* Hataları ve teknik sorunları tespit etmek ve düzeltmek
+* Güvenliği sağlamak ve kötüye kullanımı önlemek
+* Yasal yükümlülükleri yerine getirmek
+* Kullanıcı taleplerine ve destek başvurularına yanıt vermek
+* İlgili mevzuata uygun olması halinde kampanya, fırsat ve bilgilendirme mesajları göndermek
+
+## 3. Sipariş ve Ödeme Bilgileri
+
+Ödeme işlemleri, kullanılan ödeme altyapısına ve yetkili ödeme hizmeti sağlayıcısına göre gerçekleştirilebilir.
+
+Platform, gerekli olmadığı sürece kredi veya banka kartı bilgilerinin tamamını doğrudan saklamaz. Ödeme hizmetleri, ilgili ödeme kuruluşlarının kendi güvenlik ve gizlilik politikalarına tabidir.
+
+## 4. Veri Saklama
+
+Kullanıcı verileri, hizmetlerin sunulması ve yasal yükümlülüklerin yerine getirilmesi için gerekli olduğu süre boyunca saklanabilir.
+
+Veriler:
+
+* Kullanıcı hesabının aktif olduğu süre boyunca,
+* İlgili hizmetlerin sunulması için gerekli olduğu süre boyunca,
+* Yasal saklama yükümlülükleri kapsamında gerekli süre boyunca
+
+saklanabilir.
+
+Kullanıcılar, uygulama ve platform üzerinde sunulan imkanlar doğrultusunda hesaplarıyla ilişkili bazı verileri silebilir veya silinmesini talep edebilir.
+
+## 5. Satıcılar ve Mağazalar
+
+Fırtına E-Ticaret, farklı satıcıların veya mağazaların ürünlerini kullanıcılara sunmasına imkan sağlayabilir.
+
+Bir kullanıcı bir mağazadan ürün satın aldığında veya sipariş oluşturduğunda, siparişin hazırlanması, ödeme sürecinin yürütülmesi, teslimatın gerçekleştirilmesi ve gerekli müşteri hizmetlerinin sağlanabilmesi amacıyla ilgili sipariş bilgileri ilgili satıcı veya mağaza ile paylaşılabilir.
+
+Her satıcı veya mağaza, kendisine aktarılan kişisel verileri yalnızca hizmetin gerektirdiği ölçüde ve ilgili mevzuata uygun olarak kullanmakla yükümlüdür.
+
+## 6. Üçüncü Taraf Hizmetler
+
+Platform aşağıdaki türlerde üçüncü taraf hizmetlerinden yararlanabilir:
+
+* Ödeme hizmeti sağlayıcıları
+* Kargo ve teslimat hizmetleri
+* Analitik ve istatistik servisleri
+* Çökme ve hata raporlama servisleri
+* Bulut sunucu ve veri depolama hizmetleri
+* Bildirim ve iletişim hizmetleri
+* Güvenlik ve dolandırıcılık önleme hizmetleri
+
+Bu hizmet sağlayıcıları kendi gizlilik politikalarına tabi olabilir.
+
+## 7. Çerezler ve Kullanım Verileri
+
+Platform, kullanıcı deneyimini geliştirmek, oturum işlemlerini yönetmek, güvenliği sağlamak ve kullanım istatistiklerini analiz etmek amacıyla çerezler ve benzer teknolojiler kullanabilir.
+
+Bu teknolojiler aracılığıyla kullanıcının:
+
+* Platformda ziyaret ettiği sayfalar
+* Görüntülediği ürünler
+* Tıklama ve etkileşimleri
+* Oturum ve cihaz bilgileri
+
+gibi kullanım verileri işlenebilir.
+
+## 8. Veri Paylaşımı
+
+Kullanıcı verileri satılmaz.
+
+Kişisel veriler yalnızca aşağıdaki durumlarda gerekli ölçüde paylaşılabilir:
+
+* Sipariş ve teslimat işlemlerinin gerçekleştirilmesi
+* Ödeme işlemlerinin yürütülmesi
+* Platform hizmetlerinin sunulması
+* Teknik ve güvenlik hizmetlerinin sağlanması
+* Yetkili kamu kurumları veya yasal mercilerin mevzuata uygun talepleri
+* Kullanıcının açıkça izin verdiği diğer durumlar
+
+## 9. Güvenlik
+
+Kişisel verilerin korunması için uygun teknik ve idari güvenlik önlemleri uygulanmaktadır.
+
+Ancak internet üzerinden gerçekleştirilen veri aktarımının tamamen ve yüzde yüz güvenli olduğu garanti edilemez. Kullanıcılar, hesap bilgilerinin ve şifrelerinin güvenliğinden de sorumludur.
+
+## 10. Kullanıcı Hakları
+
+Kullanıcılar, yürürlükteki kişisel verilerin korunması mevzuatı kapsamında:
+
+* Kişisel verilerinin işlenip işlenmediğini öğrenme
+* İşlenen kişisel verileri hakkında bilgi talep etme
+* Yanlış veya eksik verilerin düzeltilmesini isteme
+* İlgili şartların oluşması halinde verilerinin silinmesini veya yok edilmesini talep etme
+* Verilerinin işlenmesine belirli durumlarda itiraz etme
+* İlgili mevzuat kapsamında diğer haklarını kullanma
+
+haklarına sahiptir.
+
+## 11. Çocukların Gizliliği
+
+Platform, ilgili mevzuat kapsamında gerekli izinler bulunmadıkça çocuklardan bilerek kişisel veri toplamayı amaçlamaz.
+
+Çocuklara ait kişisel verilerin izinsiz olarak işlendiğinin tespit edilmesi halinde, gerekli işlemler yürütülür.
+
+## 12. Gizlilik Politikası Değişiklikleri
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir.
+
+Güncel politika Platform üzerinde yayınlanır ve yayınlandığı tarihten itibaren geçerli olur. Kullanıcıların politikayı düzenli olarak kontrol etmeleri önerilir.
+
+## 13. İletişim
+
+Gizlilik Politikası ve kişisel verilerinizle ilgili sorularınız için bizimle iletişime geçebilirsiniz:
+
+**Fırtına E-Ticaret**
+**E-posta:** [burhansert50@gmail.com](mailto:burhansert50@gmail.com)
